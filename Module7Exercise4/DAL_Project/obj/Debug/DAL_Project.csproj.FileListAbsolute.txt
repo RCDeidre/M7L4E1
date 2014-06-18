@@ -1,0 +1,5 @@
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\DAL_Project\bin\Debug\DAL_Project.dll
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\DAL_Project\bin\Debug\DAL_Project.pdb
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\DAL_Project\obj\Debug\DAL_Project.csprojResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\DAL_Project\obj\Debug\DAL_Project.dll
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\DAL_Project\obj\Debug\DAL_Project.pdb

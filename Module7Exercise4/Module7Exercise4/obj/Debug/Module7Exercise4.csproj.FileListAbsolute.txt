@@ -1,0 +1,14 @@
+c:\users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\bin\Module7Exercise4.dll
+c:\users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\bin\Module7Exercise4.pdb
+c:\users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\obj\Debug\Module7Exercise4.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\obj\Debug\Module7Exercise4.dll
+c:\users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\obj\Debug\Module7Exercise4.pdb
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\bin\DAL_Project.dll
+C:\Users\student\documents\visual studio 2012\Projects\Module7Exercise4\Module7Exercise4\bin\DAL_Project.pdb
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\bin\Module7Exercise4.dll
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\bin\Module7Exercise4.pdb
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\bin\DAL_Project.dll
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\bin\DAL_Project.pdb
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\obj\Debug\Module7Exercise4.csprojResolveAssemblyReference.cache
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\obj\Debug\Module7Exercise4.dll
+C:\M7L4E1\Module7Exercise4\Module7Exercise4\obj\Debug\Module7Exercise4.pdb
